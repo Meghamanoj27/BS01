@@ -1,0 +1,23 @@
+.heading{
+    background: linear-gradient(to right,blue ,pink 50%);
+     color: white;
+     height: 200px;
+     
+     
+}
+.heading h1{
+    font-size: 45px;
+    padding-top: 35px;
+}
+.row{
+    padding-top: 30px;
+}
+.flex{
+    display: flex;
+    text-align: center;
+}
+.pp{
+    width: 350px;
+    margin-top: 50px;
+    padding-left: 20px;
+}
